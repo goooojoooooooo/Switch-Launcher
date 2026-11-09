@@ -4,7 +4,6 @@
  
 A Windows launcher that looks like the **Switch 2** HOME menu, so you can open your games in your emulator as if you were on the console, without digging through folders or menus.
  
-![Main menu](capturas/captura-menu.png)
  
 > ⚠️ **You need an emulator that is already installed and working** (Eden, Citron, Ryujinx, Sudachi, Suyu or Yuzu).
 > This program **is not an emulator** and **does not include games, keys or firmware**. It only opens the games you already have with the emulator you already have.
@@ -68,8 +67,6 @@ If it can't find them, go to **System Settings** (the gear icon) and pick them m
  
 | | |
 |---|---|
-| ![Dark theme](capturas/captura-menu-oscuro.png) | ![All Software](capturas/captura-biblioteca.png) |
-| ![Entrance screen](capturas/captura-bloqueo.png) | |
  
 ## Controls
  
