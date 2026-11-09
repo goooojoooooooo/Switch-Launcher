@@ -115,8 +115,6 @@ MIT
  
 Un launcher para Windows con el aspecto del menú HOME de **Switch 2**, para abrir tus juegos en tu emulador como si estuvieras en la consola, sin tocar carpetas ni menús.
  
-![Menú principal](capturas/captura-menu.png)
- 
 > ⚠️ **Necesitas tener ya un emulador instalado y funcionando** (Eden, Citron, Ryujinx, Sudachi, Suyu o Yuzu).
 > Este programa **no es un emulador** y **no incluye juegos, claves ni firmware**. Solo abre los juegos que ya tienes con el emulador que ya tienes.
 > Si un juego no te arranca en el emulador, tampoco arrancará desde aquí.
